@@ -52,8 +52,7 @@ Each row represents a unique machine identified by `MachineID`.
 
 ## ✅ Results
 
-Achieved an accuracy of **0.63670
-** on test set .
+Achieved an accuracy of 0.63670 on test set .
 
 ## 🗂️ Competition Details
 
@@ -61,6 +60,29 @@ Achieved an accuracy of **0.63670
 - Duration: Dec 26, 2024 – Mar 19, 2025
 - Evaluation Metric: `accuracy_score`
 
+## 📊 Model Training & Evaluation
+
+After extensive experimentation and optimization, my model's **accuracy score improved significantly from `0.5100` to `0.6367`**( on private score board).The highest Score on private leaderboard was 0.6495. 
+Note:-  Public leaderboard of kaggle was not considered for grading beacuse people used libraries which are not allowed.
+
+### 🧠 Trained Models and Their Performance (AUC Scores):
+
+| Model         | AUC Score |
+|---------------|-----------|
+| 🥇 **LightGBM**     | **0.6655** |
+| XGBoost       | 0.6569    |
+| RandomForest  | 0.6485    |
+
+✅ **Best Performing Model:** `LightGBM` was selected based on its superior AUC performance.
+
+---
+
+### 🔍 Observations from LightGBM Training Logs:
+
+- Number of data points in the training set: **80,000**
+- Positive samples: **40,420** | Negative samples: **39,580**
+- Number of features used: **47**
+- Auto-selected `row-wise` multi-threading for optimized parallel processing:
 
 
 ---
