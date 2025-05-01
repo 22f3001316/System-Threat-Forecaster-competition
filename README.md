@@ -8,7 +8,7 @@ This is a Machine Learning project submitted for the **IITM BS Degree Program (T
 - `21f1001234-notebook-t12025.ipynb` - Final notebook used in the competition
 - `submission.csv` - Final predictions in the required format
 - `train.csv`, `test.csv`, `sample_submission.csv` - Provided datasets
-- Note:- Due to large size of train dataset it cant't be uploaded here so you can download it from kaggle page of this competetion.
+- Note:- Due to large size of train dataset it can't be uploaded here so you can download it from kaggle page of this competetion.
 
 ## 🧠 Problem Statement
 
