@@ -30,7 +30,7 @@ Target column:
 
 Each row represents a unique machine identified by `MachineID`.
 
-## 🛠️ Libraries Used (There was a strict boundation , that only these libraries can be  used .)
+## 🛠️ Libraries Used (There was a strict boundation , that only these libraries can be  used )
 
 - `NumPy`
 - `Pandas`
@@ -63,7 +63,7 @@ Achieved an accuracy of 0.63670 on test set .
 ## 📊 Model Training & Evaluation
 
 After extensive experimentation and optimization, my model's **accuracy score improved significantly from `0.5100` to `0.6367`**( on private score board).The highest Score on private leaderboard was 0.6495. 
-Note:-  Public leaderboard of kaggle was not considered for grading beacuse people used libraries which are not allowed.
+- Note:-  Public leaderboard of kaggle was not considered for grading beacuse people used libraries which were not allowed.
 
 ### 🧠 Trained Models and Their Performance (AUC Scores):
 
