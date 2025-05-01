@@ -68,7 +68,7 @@ Achieved an accuracy of **0.63670
 ## 🔗 Links
 
 - [Kaggle ](#)https://www.kaggle.com/competitions/System-Threat-Forecaster/overview
-- [train.csv link](/https://www.kaggle.com/competitions/System-Threat-Forecaster/data?select=train.csv)
+- [train.csv link] /https://www.kaggle.com/competitions/System-Threat-Forecaster/data?select=train.csv
 
 ---
 
