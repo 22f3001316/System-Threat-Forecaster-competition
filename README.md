@@ -91,6 +91,7 @@ After extensive experimentation and optimization, my model's **accuracy score im
 
 - [Kaggle ](#)https://www.kaggle.com/competitions/System-Threat-Forecaster/overview
 - [train.csv link] /https://www.kaggle.com/competitions/System-Threat-Forecaster/data?select=train.csv
+- Blog by Aayansh https://blog.noctivagous.me/system-threat-forecaster
 
 ---
 
